@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head><title>My HTML Project</titel></head>
+<body>
+<h1 style="background-color:DodgerBlue;">Hello My Dear Students</h1>
+
+</body>
+</html>
+Hi 
+My name is Hana , I am from chemchemal.
+I am teacher at charmww Institute.
+
